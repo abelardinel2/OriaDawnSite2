@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Oria Dawn</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- Hero -->
+  <section class="hero">
+    <h1>Clarity in Chaos</h1>
+    <p class="tagline">Systems. Tools. Research.</p>
+    <p>Navigate market complexities with intelligent systems that cut through noise and deliver actionable insights.</p>
+  </section>
+
+  <!-- Systems -->
+  <section class="systems">
+    <h2>Green Light System</h2>
+    <p>Advanced market intelligence and signal processing for informed decision-making.</p>
+
+    <h2>Macro Focus Areas</h2>
+    <p>Specialized research in digital assets, precious metals, and AI market dynamics.</p>
+
+    <h2>Telegram Bots & Signals</h2>
+    <p>Automated trading signals and market alerts delivered in real-time.</p>
+
+    <h2>App Development & Automation</h2>
+    <p>Custom tools and applications for enhanced trading and analysis workflows.</p>
+  </section>
+
+  <!-- Work With Me -->
+  <section class="work">
+    <h2>Work With Me</h2>
+    <div class="image-grid">
+      <div class="img-placeholder">Analytics dashboards</div>
+      <div class="img-placeholder">Trading charts</div>
+      <div class="img-placeholder">Market data</div>
+    </div>
+  </section>
+
+  <!-- Subscribe -->
+  <section class="subscribe">
+    <h2>Stay Connected</h2>
+    <p>Get updates on market insights and community programs.</p>
+    <form>
+      <label>First Name (optional)<br><input type="text" name="first-name" /></label><br>
+      <label>Email *<br><input type="email" name="email" required /></label><br>
+
+      <label><input type="checkbox" name="analytics" /> Oria Dawn Analytics</label><br>
+      <label><input type="checkbox" name="rise" /> Oria Dawn RISE</label><br>
+
+      <button type="submit">Subscribe</button>
+    </form>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p><strong>Oria Dawn</strong><br>
+    Building intelligent systems for the markets and heart-centered programs for the next generation.</p>
+    <p>© 2025 Oria Dawn · <a href="mailto:contact@oriadawn.xyz">contact@oriadawn.xyz</a></p>
+  </footer>
+</body>
+</html>

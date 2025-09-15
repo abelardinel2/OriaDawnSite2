@@ -1,0 +1,102 @@
+Build a mobile-responsive website called Oria Dawn with two distinct but connected branches:
+Oria Dawn Analytics and Oria Dawn R.I.S.E.
+The homepage should offer a clear, welcoming intro and visually split access to both branches.
+
+🌐 Global Design Style:
+
+Mobile-friendly, modern layout
+
+Font pairing: serif for headlines (like Playfair Display or Cormorant) and rounded sans-serif (like Nunito or Inter) for body text
+
+Soft transitions/animations
+
+Unified nav bar: Home | Analytics | RISE | Contact
+
+Footer with: © 2025 Oria Dawn · contact@oriadawn.xyz
+
+🏠 Homepage Design:
+
+Style: Balanced, poetic meets strategic
+
+Full-screen hero split: Left = clean intro tagline, Right = sunrise-style background or brand icon
+
+Tagline:
+
+“I build intelligent systems for the markets — and heart-centered programs for the next generation.”
+
+Two call-to-action buttons:
+
+[ Explore Analytics ] – leads to /analytics.html
+
+[ Visit RISE ] – leads to /rise.html
+
+Neutral base background (light cream or soft beige)
+
+📊 Analytics Page Design:
+
+Style: Inspired by Tens.co
+ homepage (see uploaded screenshot)
+
+Clean, bold layout
+
+Left side: text intro, right side: image block or graph/tool preview
+
+Bold intro headline:
+
+“Clarity in Chaos: Systems. Tools. Research.”
+
+Sections:
+
+Green Light System
+
+Macro Focus Areas (crypto, metals, AI)
+
+Telegram Bots & Signals
+
+App development & automation
+
+Design Details:
+
+Color palette: deep green, navy, cream, gold accents
+
+Minimal boxes, clean grid layout
+
+Button: [ Work With Me ]
+
+🌈 RISE Page Design:
+
+Style: Retro-inspired, warm, soft, friendly — based on uploaded sunrise image and flyer design
+
+Use soft rays, rainbow lines, or semi-circle sunrise motif in header
+
+Color palette: warm peach, retro orange, soft yellow, sage mint, off-white
+
+Rainbow icon above section titles
+
+Main Title:
+
+“A space where kids rise through kindness, creativity & community.”
+
+Section: “This Is What We Do” — with 4 content blocks:
+
+Kids Give 🌟
+
+Kids Share 🎶
+
+Kids Make 🎨
+
+Kids Connect 🌿
+
+Include flyer-style copy for each section (from provided image)
+
+Add a section: “All Ages Welcome (Ages 4–16+)”
+
+Add CTA: [ Get Involved ] or simple email/contact form
+
+📬 Contact Page:
+
+Standard form: Name, Email, Message
+
+Optional selector: “I’m interested in Analytics” or “I want to help with RISE”
+
+Clean, no clutter — consistent with Analytics style
