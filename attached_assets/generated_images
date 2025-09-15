@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Oria Dawn</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- Hero -->
+  <section class="hero">
+    <h1>Clarity in Chaos</h1>
+    <p class="tagline">Systems. Tools. Research.</p>
+    <p>Navigate market complexities with intelligent systems that cut through noise and deliver actionable insights.</p>
+  </section>
+
+  <!-- Systems -->
+  <section class="systems">
+    <h2>Green Light System</h2>
+    <p>Advanced market intelligence and signal processing for informed decision-making.</p>
+
+    <h2>Macro Focus Areas</h2>
+    <p>Specialized research in digital assets, precious metals, and AI market dynamics.</p>
+
+    <h2>Telegram Bots & Signals</h2>
+    <p>Automated trading signals and market alerts delivered in real-time.</p>
+
+    <h2>App Development & Automation</h2>
+    <p>Custom tools and applications for enhanced trading and analysis workflows.</p>
+  </section>
+
+  <!-- Work With Me -->
+  <section class="work">
+    <h2>Work With Me</h2>
+    <div class="image-grid">
+      <div class="img-placeholder">Analytics dashboards</div>
+      <div class="img-placeholder">Trading charts</div>
+      <div class="img-placeholder">Market data</div>
+    </div>
+  </section>
+
+  <!-- Subscribe -->
+  <section class="subscribe">
+    <h2>Stay Connected</h2>
+    <p>Get updates on market insights and community programs.</p>
+    <form>
+      <label>First Name (optional)<br><input type="text" name="first-name" /></label><br>
+      <label>Email *<br><input type="email" name="email" required /></label><br>
+
+      <label><input type="checkbox" name="analytics" /> Oria Dawn Analytics</label><br>
+      <label><input type="checkbox" name="rise" /> Oria Dawn RISE</label><br>
+
+      <button type="submit">Subscribe</button>
+    </form>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p><strong>Oria Dawn</strong><br>
+    Building intelligent systems for the markets and heart-centered programs for the next generation.</p>
+    <p>© 2025 Oria Dawn · <a href="mailto:contact@oriadawn.xyz">contact@oriadawn.xyz</a></p>
+  </footer>
+</body>
+</html>
+
+Build a mobile-responsive website called Oria Dawn with two distinct but connected branches:
+Oria Dawn Analytics and Oria Dawn R.I.S.E.
+The homepage should offer a clear, welcoming intro and visually split access to both branches.
+
+🌐 Global Design Style:
+
+Mobile-friendly, modern layout
+
+Font pairing: serif for headlines (like Playfair Display or Cormorant) and rounded sans-serif (like Nunito or Inter) for body text
+
+Soft transitions/animations
+
+Unified nav bar: Home | Analytics | RISE | Contact
+
+Footer with: © 2025 Oria Dawn · contact@oriadawn.xyz
+
+🏠 Homepage Design:
+
+Style: Balanced, poetic meets strategic
+
+Full-screen hero split: Left = clean intro tagline, Right = sunrise-style background or brand icon
+
+Tagline:
+
+“I build intelligent systems for the markets — and heart-centered programs for the next generation.”
+
+Two call-to-action buttons:
+
+[ Explore Analytics ] – leads to /analytics.html
+
+[ Visit RISE ] – leads to /rise.html
+
+Neutral base background (light cream or soft beige)
+
+📊 Analytics Page Design:
+
+Style: Inspired by Tens.co
+ homepage (see uploaded screenshot)
+
+Clean, bold layout
+
+Left side: text intro, right side: image block or graph/tool preview
+
+Bold intro headline:
+
+“Clarity in Chaos: Systems. Tools. Research.”
+
+Sections:
+
+Green Light System
+
+Macro Focus Areas (crypto, metals, AI)
+
+Telegram Bots & Signals
+
+App development & automation
+
+Design Details:
+
+Color palette: deep green, navy, cream, gold accents
+
+Minimal boxes, clean grid layout
+
+Button: [ Work With Me ]
+
+🌈 RISE Page Design:
+
+Style: Retro-inspired, warm, soft, friendly — based on uploaded sunrise image and flyer design
+
+Use soft rays, rainbow lines, or semi-circle sunrise motif in header
+
+Color palette: warm peach, retro orange, soft yellow, sage mint, off-white
+
+Rainbow icon above section titles
+
+Main Title:
+
+“A space where kids rise through kindness, creativity & community.”
+
+Section: “This Is What We Do” — with 4 content blocks:
+
+Kids Give 🌟
+
+Kids Share 🎶
+
+Kids Make 🎨
+
+Kids Connect 🌿
+
+Include flyer-style copy for each section (from provided image)
+
+Add a section: “All Ages Welcome (Ages 4–16+)”
+
+Add CTA: [ Get Involved ] or simple email/contact form
+
+📬 Contact Page:
+
+Standard form: Name, Email, Message
+
+Optional selector: “I’m interested in Analytics” or “I want to help with RISE”
+
+Clean, no clutter — consistent with Analytics style
